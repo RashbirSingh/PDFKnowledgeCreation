@@ -1,0 +1,10 @@
+{
+     "FilePath": "/home/ubuntu/Desktop/My-Test-Code/Code",
+     "JSONRemover": "rm /home/ubuntu/Desktop/My-Test-Code/JSONObject*.json",
+     "RemoveSummary": "rm /home/ubuntu/Desktop/My-Test-Code/Summary*.txt",
+     "RemoveHeadWords": "rm /home/ubuntu/Desktop/My-Test-Code/HeadWords*.csv",
+     "RemoveSectionalText": "rm /home/ubuntu/Desktop/My-Test-Code/SectionalText*.txt",
+     "RemoveCombinedJson": "rm /home/ubuntu/Desktop/My-Test-Code/*_JSON.json",
+     "TopicCSVRemove": "rm /home/ubuntu/Desktop/My-Test-Code/Topics.csv",
+     "PdfProcess": "/home/ubuntu/Desktop/My-Test-Code/pdf_process"
+}
